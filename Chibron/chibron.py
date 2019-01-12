@@ -6,7 +6,7 @@ import ctypes
 import codecs
 
 ScriptName = "Chibron"
-Website = "http://www.domi.com"
+Website = "https://github.com/DomiBot/ScriptChatBot"
 Description = "Message de bienvenue pour chibron Streamlabs Bot"
 Creator = "Domi"
 Version = "1.0.0"
