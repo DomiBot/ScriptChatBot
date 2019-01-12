@@ -1,0 +1,13 @@
+﻿{
+  "liveOnly": false,
+  "words": "hey, hi, hello,salut,bonjour,",
+  "permission": "Everyone",
+  "volume": 50.0,
+  "useCooldown": false,
+  "useCooldownMessages": false,
+  "cooldown": 1,
+  "onCooldown": "$user, $command is still on cooldown for $cd minutes!",
+  "userCooldown": 300,
+  "onUserCooldown": "$user, $command is still on user cooldown for $cd minutes!",
+  "responseHello": "Bonjours, $user!"
+}
