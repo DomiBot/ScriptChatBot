@@ -1,8 +1,8 @@
 ===============================================================================
- Name: 		Welcome Announcer for Streamlabs Bot
- Version: 	1.2.8
- Creator: 	Bare7a
- Website:	https://github.com/Bare7a/Streamlabs-Chatbot-Scripts
+ Name: 		Bienvenue pour le chibron Streamlabs Bot
+ Version: 	1.0.0
+ Creator: 	Domi
+ Website:	https://github.com/Domi/ScriptChatBot
 ===============================================================================
  - Enable/Disable using the command when the stream is offline
  - Enable/Disable cooldown / user cooldown
