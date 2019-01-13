@@ -16,13 +16,12 @@ settings = {}
 volume = 0.1
 soundspath = ""
 sounds = []
-words = []
 
 def ScriptToggled(state):
 	return
 
 def Init():
-	global sounds, soundspath, volume, words, settings
+	global sounds, soundspath, volume, settings
 
 	path = os.path.dirname(__file__)
 	soundspath = path + "\\sounds"
