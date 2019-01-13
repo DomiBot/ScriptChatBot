@@ -44,7 +44,7 @@ def Init():
 			"responseHello": "Bienvenue, $user!"
 		}
 
-	volume = settings["volume"] / 1000.0
+	volume = settings["volume"] / 100.0
 	sounds = os.listdir(soundspath)	
 
 	words = settings["words"].replace(" ","").split(",")
