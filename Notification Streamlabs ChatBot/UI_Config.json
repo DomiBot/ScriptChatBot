@@ -53,5 +53,5 @@
         "label": "User Cooldown Response",
         "tooltip": "The message that the bot will display when the command is on user cooldown. \r\n $user = Username\r\n $cd = time remaining",
         "group": "Cooldown"
-    },
+    }
 }
