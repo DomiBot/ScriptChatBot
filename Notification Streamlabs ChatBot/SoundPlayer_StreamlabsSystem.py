@@ -47,7 +47,7 @@ def Init():
     return
 
 def Execute(data):
-	if data.IsChatMessage() and (Parent.HasPermission(data.User, settings["permission"], "") and ((settings["liveOnly"] and Parent.IsLive()) or (not settings["liveOnly"])):
+	if data.IsChatMessage() and Parent.HasPermission(data.User, settings["permission"], "") and ((settings["liveOnly"] and Parent.IsLive()) or (not settings["liveOnly"])):
 		outputMessage = ""
 		userId = data.User			
 		username = data.UserName
